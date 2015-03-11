@@ -1,0 +1,16 @@
+--- /home/parlparse/parldata/cmpages/regmem/regmem2009-09-02.html	2009-09-04 01:37:24.000000000 +0100
++++ /home/parlparse/parldata/tmp/patchtmp-regmem2009-09-02-C3Ujb_.html	2009-09-07 13:34:37.000000000 +0100
+@@ -6997,11 +6997,11 @@
+ <TR><TD COLSPAN=4><B><span style="background-color: #FFFF00">SMITH, Chloe (Norwich North)</span></B></TD></TR>
+ <TR><TD COLSPAN=4><B>&nbsp;&nbsp;</B></TD></TR>
+ <TR><TD COLSPAN=4><B>&nbsp;&nbsp;</B></TD></TR>
+-<TR><TD COLSPAN=4><B><span style="background-color: #FFFF00">2.Remunerated employment, office, profession etc</span></B></TD></TR>
++<TR><TD><B>2.</B></TD><TD COLSPAN=3><B>Remunerated employment, office, profession etc</B></TD></TR>
+ <TR><TD></TD><TD></TD><TD COLSPAN=2><span style="background-color: #FFFF00">Payment of &#163;850 from Deloitte MCS Ltd, 2 New Street Square, London, for business consultancy.  Hours worked:  1 week, prior to resignation, post by-election.</span></TD></TR>
+ <TR><TD COLSPAN=4><B>&nbsp;&nbsp;</B></TD></TR>
+ <TR><TD COLSPAN=4><B>&nbsp;&nbsp;</B></TD></TR>
+-<TR><TD COLSPAN=4><B><span style="background-color: #FFFF00">4.Sponsorships</span></B></TD></TR>
++<TR><TD><B>4.</B></TD><TD COLSPAN=3><B>Sponsorships</B></TD></TR>
+ <TR><TD></TD><TD></TD><TD COLSPAN=2><span style="background-color: #FFFF00">Name of donor:  Women 2 Win</span></TD></TR>
+ <TR><TD></TD><TD></TD><TD COLSPAN=2><span style="background-color: #FFFF00">Address of donor: 116 Kennington Road, London SE11 6RE</span></TD></TR>
+ <TR><TD></TD><TD></TD><TD COLSPAN=2><span style="background-color: #FFFF00">Amount of donation or nature and value if donation in kind:  &#163;1500</span></TD></TR>

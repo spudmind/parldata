@@ -1,0 +1,11 @@
+--- /home/parlparse/parldata/cmpages/regmem/regmem2009-11-11.html	2009-11-14 01:37:18.000000000 +0000
++++ /home/parlparse/parldata/tmp/patchtmp-regmem2009-11-11-xuee1w.html	2009-11-18 12:21:11.000000000 +0000
+@@ -2562,7 +2562,7 @@
+ <TR><TD COLSPAN=3><B>&nbsp;&nbsp;</B></TD></TR>
+ <TR><TD COLSPAN=3><B>&nbsp;&nbsp;</B></TD></TR>
+ <TR><TD><span style="background-color: #FFFF00"><B>2.</B></span></TD><TD COLSPAN=2><span style="background-color: #FFFF00"><B>Remunerated employment, office, profession etc</B></span></TD></TR>
+-<TR><TD COLSPAN=3><B>&nbsp;&nbsp;</B><span style="background-color: #FFFF00"><B>Received &#163;500 for opening a new Tesco store in my constituency on 30 October2009. Money donated to charity. Hours: TBC. Address: Tesco plc, New Tesco House, Delamare Road,Cheshunt, Herts, EN8 9SL. <I>(Registered 2 November 2009)</I></B></span></TD></TR>
++<TR><TD></TD><TD COLSPAN=2><span style="background-color: #FFFF00">Received &#163;500 for opening a new Tesco store in my constituency on 30 October2009. Money donated to charity. Hours: TBC. Address: Tesco plc, New Tesco House, Delamare Road,Cheshunt, Herts, EN8 9SL. <I>(Registered 2 November 2009)</I></span></TD></TR>
+ <TR><TD COLSPAN=3><B>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+ &nbsp;</B></TD></TR>
+ <TR><TD COLSPAN=3><B>EAGLE, Maria (Liverpool Garston)</B></TD></TR>

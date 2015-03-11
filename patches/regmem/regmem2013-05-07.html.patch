@@ -1,0 +1,11 @@
+--- /home/parlparse/parldata/cmpages/regmem/regmem2013-05-07.html	2013-05-10 01:38:42.000000000 +0100
++++ /home/parlparse/parldata/tmp/patchtmp-regmem2013-05-07-9z41Iz.html	2013-05-14 06:27:33.000000000 +0100
+@@ -11974,7 +11974,7 @@
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Purpose of visit: policy fact-finding visit</p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent"><em>(Registered 19 December 2012)</em></p>
+ <page url="http://www.publications.parliament.uk/pa/cm/cmregmem/130507/register-of-members-financial-interestscampbell_ronnie.htm" scrapedate="2013-05-10" scrapetime="00:38:22"/>
+-<h2 xmlns="http://www.w3.org/1999/xhtml">Register of Members' Financial InterestsCAMPBELL, Ronnie (Blyth Valley)</h2>
++<h2 xmlns="http://www.w3.org/1999/xhtml">CAMPBELL, Ronnie (Blyth Valley)</h2>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Nil.</p>
+ <page url="http://www.publications.parliament.uk/pa/cm/cmregmem/130507/reid_alan.htm" scrapedate="2013-05-10" scrapetime="00:38:22"/>
+ <h2 xmlns="http://www.w3.org/1999/xhtml">REID, Alan (Argyll and Bute)</h2>

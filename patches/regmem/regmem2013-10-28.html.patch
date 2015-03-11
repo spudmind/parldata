@@ -1,0 +1,46 @@
+--- /home/parlparse/parldata/cmpages/regmem/regmem2013-10-28.html	2013-11-06 01:38:39.000000000 +0000
++++ /home/parlparse/parldata/tmp/patchtmp-regmem2013-10-28-ORQHPM.html	2013-11-07 09:12:47.000000000 +0000
+@@ -6793,8 +6793,8 @@
+ <span style="&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;color: 000000;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;">Barrister, not currently in private practice. </span>
+ <span style="&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;color: 000000;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"><em>(Updated 14 November 2012)</em></span>
+ </p>
+-<p xmlns="http://www.w3.org/1999/xhtml" class="nm0">
+-<span class="nm20"><strong>HEALEY</strong></span>, John (Wentworth and Dearne) </p>
++<page url="" scrapedate="2013-11-07" scrapetime=""/>
++<h2>HEALEY, John (Wentworth and Dearne) </h2>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="shd0"><strong>1. Directorships</strong></p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Group Board member of Incommunities Housing Association, The Quays, Victoria Street, Shipley, BD17 7BN. Commitment of approx 8 hrs a month from April 2013. Remuneration: £5,000.p.a. <em>(Registered 30 April 2013) </em></p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent2">28 May 2013, received £690.41 for two months’ work. Hours: 16 hrs approx. <em>(Registered 3 June 2013)</em></p>
+@@ -9956,8 +9956,8 @@
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent"><span class="highlight"><em>(Registered 23 October 2013)</em></span></p>
+ <h3 xmlns="http://www.w3.org/1999/xhtml" class="shd">8. Land and Property</h3>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Part-share of house in Luton.</p>
+-<p xmlns="http://www.w3.org/1999/xhtml" class="nm0">
+-<span class="nm20"><strong>McCARTNEY</strong></span>, Jason (Colne Valley)</p>
++<page url="" scrapedate="2013-11-07" scrapetime=""/>
++<h2>McCARTNEY, Jason (Colne Valley)</h2>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="shd0"><strong>2.         Remunerated employment, office, profession etc</strong></p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Payments from ComRes, Four Millbank, London SW1P 3JA:</p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent2">Payment of £600 for completing eight opinion surveys between April 2012 and February 2013.  Hours: 4 hrs in total.  Payment donated to charity. <em>(Registered 18 April 2013)</em></p>
+@@ -10171,10 +10171,8 @@
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent"><span class="highlight">Purpose of visit: Fact-finding visit to Israel and the Palestinian territories with defence and security focus </span></p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent"><span class="highlight"><em>(Registered 28 October 2013</em></span>)</p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="spacer"></p>
+-<p xmlns="http://www.w3.org/1999/xhtml">
+-<span class="nm2"><strong>McINTOSH, </strong></span>
+-<span class="nm2">Anne (Thirsk and Malton)</span>
+-</p>
++<page url="" scrapedate="2013-11-07" scrapetime=""/>
++<h2>McINTOSH, Anne (Thirsk and Malton)</h2>
+ <h3 xmlns="http://www.w3.org/1999/xhtml" class="shd">8. Land and Property</h3>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Half-share of smallholding in Teesdale, Co Durham.</p>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Half share of dwelling in Teesdale, Co Durham.<em>(Updated 17 June 2013)</em></p>
+@@ -11755,7 +11753,7 @@
+ <h3 xmlns="http://www.w3.org/1999/xhtml" class="shd">8. Land and Property</h3>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Commercial property in Rugby from which rental income is received (held until 28 June 2013). <em>(Updated 4 July 2013)</em></p>
+ <page url="http://www.publications.parliament.uk/pa/cm/cmregmem/131028/pearce_teresa.htm" scrapedate="2013-11-06" scrapetime="01:38:14"/>
+-<h2 xmlns="http://www.w3.org/1999/xhtml">PEARCE, Teresa (Erith and Thamesmead</h2>
++<h2 xmlns="http://www.w3.org/1999/xhtml">PEARCE, Teresa (Erith and Thamesmead)</h2>
+ <h3 xmlns="http://www.w3.org/1999/xhtml" class="shd">8. Land and Property</h3>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="indent">Part share of a house in Uzes, Gard France. (until November 2012) </p>
+ <page url="http://www.publications.parliament.uk/pa/cm/cmregmem/131028/penning_mike.htm" scrapedate="2013-11-06" scrapetime="01:38:14"/>
